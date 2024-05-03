@@ -1,0 +1,3 @@
+The MainActivity is written in Kotlin 
+The Activity_main is written in XML
+Please sync the generative model dependecies to the build.gradle.kt
